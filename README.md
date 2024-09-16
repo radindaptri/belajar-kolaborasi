@@ -1,3 +1,4 @@
 # belajar-kolaborasi
 Belajar Github di Dicoding sangat menyenangkan !
-Manajemen kode menjadi lebih mudah berkat Github
+Mendokumentasikan dengan Github menjadi lebih muda
+- Manajemen kode menjadi lebih mudah berkat Github
